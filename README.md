@@ -11,3 +11,5 @@ Second Challenge
 The second challenge is to develop a Convolutional Neural Network (CNN) to classify lego blocks. To develop it all I used the Keras and Tensorflow framework. The challenge also required to show the most significant pixels (features) through a heatmap.
 Grade: 30/30 with honors.
  
+This site was built using [GitHub Pages](https://pages.github.com/).
+
