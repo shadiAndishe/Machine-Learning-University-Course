@@ -3,7 +3,7 @@ Repository of the different challenges (midterm) during the Machine Learning cou
 
 Currently, the code of the first challenge is present, which is worth 10% of the final score.
 
-#### First Challenge
+# First Challenge
 The first challenge as explained in the Jupyter notebook is to clean up a dataset, perform various dataset analyzes and show the comparison between the prediction power of the Decision Tree Classifier and the Multi-Layer Perceptron algorithm (MLP).
 Grade: 29/30
 
